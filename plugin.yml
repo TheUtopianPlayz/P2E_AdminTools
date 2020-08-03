@@ -1,0 +1,14 @@
+---
+name: P2E_AdminTools
+version: 0.0.1
+main: TheUtopian\p2e_admintools\P2E_AdminTools
+api: 3.11.0
+
+commands:
+  lagclear:
+    description: "clears ground items and xp orbs!"
+    permission: lagclear.cmd
+permissions:
+  lagclear.cmd:
+    default: op
+...

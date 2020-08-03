@@ -6,7 +6,7 @@ api: 3.11.0
 
 commands:
   lagclear:
-    description: "clears ground items and xp orbs!"
+    description: "clears ground items!"
     permission: lagclear.cmd
 permissions:
   lagclear.cmd:
